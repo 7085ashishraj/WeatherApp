@@ -1,7 +1,8 @@
 # 🌤️ WeatherApp
+🔗 **Live Demo:** 7085ashishraj.github.io/WeatherApp/
 
 A lightweight, responsive web application that provides real-time weather information.  
-This project was developed to demonstrate proficiency in handling asynchronous JavaScript operations and efficient state management.
+This project was developed to demonstrate proficiency in handling asynchronous JavaScript operations and efficient state management
 
 ---
 
